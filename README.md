@@ -5,7 +5,7 @@ A place to keep track of little tidbits and concepts I've picked up.
 ---
 
 # Categories
-* [[Redaction de documents]](/redaction/)
+* [Redaction de documents](redaction/)
 * [Accessibility](accessibility/)
 * [API Design](api-design/)
 * [Charles](charles/)
