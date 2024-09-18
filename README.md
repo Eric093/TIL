@@ -5,7 +5,7 @@ A place to keep track of little tidbits and concepts I've picked up.
 ---
 
 # Categories
-* [Redaction de documents](https://www.cerveau.app/-/Eric093/TIL/master/redaction/)
+* #[[Redaction de documents]](redaction/)
 * [Accessibility](accessibility/)
 * [API Design](api-design/)
 * [Charles](charles/)
