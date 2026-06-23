@@ -10,6 +10,7 @@ A place to keep track of little tidbits and concepts I've picked up.
 * [API Design](api-design/)
 * [Charles](charles/)
 * [CSS](css/)
+* [Hardware](hardware/)  
 * [JavaScript](javascript/)
 * [Keyboard Shortcuts](keyboard-shortcuts/)
 * [Mocha](mocha/)
