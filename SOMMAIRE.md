@@ -12,4 +12,4 @@ Write your Markdown content here. Read [neuron documentation](https://neuron.zet
 Communications I2C à partir d'un PC Windows.
 Notes prises dans le cahier "Project Book" Blanc.
 
-Liens dans: Eric093/TIL/hardware
+Liens dans: * [Hardware](hardware/)  
